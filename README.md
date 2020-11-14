@@ -1,7 +1,6 @@
 # Paper_Repository
 
-A BREIF INTRODUCTION
-
+A Brief Introduction
 001
 
 差分分析
